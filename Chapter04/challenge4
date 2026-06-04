@@ -1,0 +1,13 @@
+
+def divide(x):
+    return x / 4
+
+
+def multiply(x):
+    return x * 7
+
+y = divide(6)
+z = multiply(y)
+
+print(z)
+

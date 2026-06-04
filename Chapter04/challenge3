@@ -1,0 +1,6 @@
+def add_mult(a,b,c,x=50,z=500):
+    return a + b + c * x * z
+
+result = add_mult(99, 87, 98)
+print(result)
+
